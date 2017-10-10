@@ -3,3 +3,8 @@
 	Kelas : XI
 	Jurusan : RPL
 	Sekolah : SMKN 1 PONOROGO
+
+	Nama : Rika An Rokhim
+	Kelas : XI
+	Jurusan : RPL
+	Sekolah : SMKN 1 Ponorogo
